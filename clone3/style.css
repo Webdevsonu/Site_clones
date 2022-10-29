@@ -1,0 +1,187 @@
+body {
+	margin: -1px;
+	background-color: #24252b;
+}
+
+.div1 {
+	border: 1px solid white;
+	background-color: white;
+	padding: 11px;
+	word-spacing: 5px;
+	letter-spacing: 1px;
+	margin-top: -2px;
+	padding-bottom: 4px;
+	position: sticky;
+	top: 0;
+}
+
+p {
+	color: red;
+}
+
+a{
+	color: black;
+	padding: 10px;
+	font-family:'arial', sans-serif;
+	font-size: 16px;
+	font-weight: bold;
+	text-decoration: none;
+	border:1px solid white;
+	padding-top: 30px;
+	padding-bottom: 30px;
+}
+a:hover{
+	color: white;
+	background-color: green;
+	border:1px solid green;
+	padding-top: 30px;
+	padding-bottom: 30px;
+
+}
+
+.button1 {
+	border:1px solid lightpink;
+	border-radius: 25px;
+	background-color: lightpink;
+	width: 140px;
+	padding-top: 15px;
+	padding-bottom: 15px;
+	font-weight: bold;
+	font-size: 15px;
+	margin-left: 20px;
+	margin-bottom: 10px;
+
+}
+
+.button1:hover{
+	border:1px solid green;
+	border-radius: 25px;
+	background-color: green;
+	color: white;
+	width: 140px;
+	padding-top: 15px;
+	padding-bottom: 15px;
+	font-weight: bold;
+	font-size: 15px;
+	cursor: pointer;
+
+}
+
+
+.button2 {
+	border:1px solid white;
+	border-radius: 25px;
+	background-color: white;
+	width: 130px;
+	padding-top: 15px;
+	padding-bottom: 15px;
+	font-weight: bold;
+	font-size: 14px;
+	margin-left: 10px;
+	margin-bottom: 10px;
+}
+
+.button2:hover{
+	border:1px solid green;
+	border-radius: 25px;
+	background-color: green;
+	color: white;
+	width: 130px;
+	padding-top: 15px;
+	padding-bottom: 15px;
+	font-weight: bold;
+	font-size: 14px;
+	cursor: pointer;
+}
+
+.button3 {
+	border:1px solid green;
+	border-radius: 25px;
+	background-color: green;
+	color: white;
+	width: 130px;
+	padding-top: 15px;
+	padding-bottom: 15px;
+	font-weight: bold;
+	font-size: 14px;
+	margin-left: 10px;
+	margin-bottom: 10px;
+}
+
+.button3:hover{
+	border:1px solid darkgreen;
+	border-radius: 25px;
+	background-color: darkgreen;
+	color: white;
+	width: 130px;
+	padding-top: 15px;
+	padding-bottom: 15px;
+	font-weight: bold;
+	font-size: 14px;
+	cursor: pointer;
+}
+
+h1 {
+	font-family: 'arial' ,sans-serif;
+	font-size: 60px;
+	font-weight: bold;
+	line-height: 20px;
+	text-align: center;
+	color: white;
+	margin-top: 10%;
+}
+
+h2 {
+	font-family: 'arial' ,sans-serif;
+	font-weight: bold;
+	color:lightpink;
+	font-size: 22px;
+	text-align: center;
+}
+
+input {
+	border:0px solid white;
+	border-top-width: 7px;
+	border-radius: 30px;
+	border-top-right-radius: 0px;
+	border-bottom-right-radius: 0px;
+	padding:20px;
+	width: 35%;
+	font-size: 16px;
+	font-weight: bold;
+}
+
+.button4 {
+	border:0px solid green;
+	border-radius: 30px;
+	border-top-left-radius: 0px;
+	border-bottom-left-radius: 0px;
+	padding:20px;
+	width: 10%;
+	background-color: green;
+	color: white;
+	cursor: pointer;
+}
+
+.div2 {
+	text-align: center;
+}
+
+span {
+	margin-left: 20px;
+}
+
+h3{
+	font-family: sans-serif;
+	font-size: 40px;
+	margin-left: 40px;
+	line-height: 50px;
+	color: white;
+}
+
+p{
+	font-family: sans-serif;;
+	margin-left: 40px;
+	color: white;
+}
+
